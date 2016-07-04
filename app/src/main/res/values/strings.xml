@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wallpaper</string>
+    <string-array name="songs">
+        <item>21 guns</item>
+        <item>Happy</item>
+        <item>Counting Stars</item>
+        <item>Pompeii</item>
+        <item>Turn down for what</item>
+        <item>Story of my life</item>
+        <item>Sweater weather</item>
+    </string-array>
+    <string name="title_activity_slide">slide</string>
+    <string name="title_activity_slides">slides</string>
+</resources>
